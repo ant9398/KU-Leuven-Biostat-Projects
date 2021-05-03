@@ -1,15 +1,5 @@
 [
  {
-   "A": "species",
-   "B": "island",
-   "C": "bill_length_mm",
-   "D": "bill_depth_mm",
-   "E": "flipper_length_mm",
-   "F": "body_mass_g",
-   "G": "sex",
-   "H": "year"
- },
- {
    "A": "Adelie",
    "B": "Torgersen",
    "C": "39.1",
